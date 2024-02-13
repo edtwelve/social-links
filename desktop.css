@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0;
+}
+
+main {
+    padding: 2em;
+}
+
+.info img {
+    width: 35%;
+}
+
+p {
+    font-size: 1em;
+}
