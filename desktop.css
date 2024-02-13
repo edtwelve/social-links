@@ -19,3 +19,11 @@ main {
 p {
     font-size: 1em;
 }
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+button:hover a {
+color: black;
+}
